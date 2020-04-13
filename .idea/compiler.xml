@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Cinema_main" target="11" />
+      <module name="Problems-Cinema_test" target="11" />
+      <module name="Problems-Collatz_conjecture_main" target="11" />
+      <module name="Problems-Collatz_conjecture_test" target="11" />
+      <module name="Problems-Direction_main" target="11" />
+      <module name="Problems-Direction_test" target="11" />
+      <module name="Problems-Does_an_array_contain_N_main" target="11" />
+      <module name="Problems-Does_an_array_contain_N_test" target="11" />
+      <module name="Problems-Even_or_odd_main" target="11" />
+      <module name="Problems-Even_or_odd_test" target="11" />
+      <module name="Problems-First_digit_main" target="11" />
+      <module name="Problems-First_digit_test" target="11" />
+      <module name="Problems-Floor-space_of_the_room_main" target="11" />
+      <module name="Problems-Floor-space_of_the_room_test" target="11" />
+      <module name="Problems-Grades_main" target="11" />
+      <module name="Problems-Grades_test" target="11" />
+      <module name="Problems-Invalid_declaration_of_variables_main" target="11" />
+      <module name="Problems-Invalid_declaration_of_variables_test" target="11" />
+      <module name="Problems-Pretty_looking_pattern_main" target="11" />
+      <module name="Problems-Pretty_looking_pattern_test" target="11" />
+      <module name="Problems-Size_of_parts_main" target="11" />
+      <module name="Problems-Size_of_parts_test" target="11" />
+      <module name="Problems-Snail_main" target="11" />
+      <module name="Problems-Snail_test" target="11" />
+      <module name="Problems-Squares_of_natural_numbers_main" target="11" />
+      <module name="Problems-Squares_of_natural_numbers_test" target="11" />
+      <module name="Problems-Test_learners_main" target="11" />
+      <module name="Problems-Test_learners_test" target="11" />
+      <module name="Problems-The_product_of_numbers_from_a_to_b_main" target="11" />
+      <module name="Problems-The_product_of_numbers_from_a_to_b_test" target="11" />
+      <module name="Problems-The_sequence_main" target="11" />
+      <module name="Problems-The_sequence_test" target="11" />
+      <module name="Problems-The_sum_of_array_elements_main" target="11" />
+      <module name="Problems-The_sum_of_array_elements_test" target="11" />
+      <module name="Problems-The_sum_of_digits_main" target="11" />
+      <module name="Problems-The_sum_of_digits_test" target="11" />
+      <module name="Problems-The_sum_of_elements_main" target="11" />
+      <module name="Problems-The_sum_of_elements_test" target="11" />
+      <module name="Problems-Triples_main" target="11" />
+      <module name="Problems-Triples_test" target="11" />
+      <module name="Tic-Tac-Toe-task_main" target="11" />
+      <module name="Tic-Tac-Toe-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
